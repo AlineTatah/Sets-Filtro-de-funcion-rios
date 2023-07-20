@@ -5,7 +5,6 @@ listturnodia=['Ana','Marcos','Alice','Melissa']
 listturnoite=['Pedro','Sophia','Bruno']
 listtemcarro=['Marcos','Alice','Bruno','Melissa']
 
-
 num1 = set(listfuncionarios)
 num2 = set(listturnodia)
 num3 = set(listturnoite)
